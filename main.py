@@ -28,6 +28,7 @@ class RageFrog(commands.Bot):
               "normalfrog"
             )
           ),
+          url='https://twitch.tv/mer'
         ),
       )
       await asyncio.sleep(45)
